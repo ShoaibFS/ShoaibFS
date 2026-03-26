@@ -3,7 +3,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Muhammad+Shoaib+%F0%9F%91%8B;Python+Backend+Developer;AI+%26+RAG+Systems+Builder;Turning+Ideas+into+APIs)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ShoaibFS&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 
 </div>
 
